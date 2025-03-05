@@ -1,1 +1,8 @@
-{'ver1':'0', 'ver2':'0', 'ver3':'\n InstaPro 11.70 \n' , 'dli':'https://t.me/TechCsl'}
+{
+  "show_message": false,
+  "title": "Update Found",
+  "content_url": "https://t.me/TechCsl",
+  "positive_btn": "Download Now",
+  "link": "https://t.me/wwgtr",
+  "cancelable": true
+}
