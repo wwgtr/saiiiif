@@ -1,9 +1,9 @@
 {
-  "show_message": false,
+  "show_message":  true,
   "title": "يتوفر تحديث",
-  "content_url": "https://t.me/TechCsl",
+  "content_url": "https://t.me/TechCsl/5945",
   "positive_btn": "تحميل",
-  "link": "https://t.me/TechCsl",
+  "link": "https://t.me/TechCsl/5945",
   "cancelable": true
 }
  
